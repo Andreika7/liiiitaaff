@@ -1,0 +1,842 @@
+*{
+    position: relative;
+    width: 360px;
+    margin: 0px;
+    padding: 0px;
+
+}
+#main_container{
+    background-color: #EABF9F;
+}
+#main_container2{
+    background-color: #EABF9F;
+}
+#main_container3{
+    background-color: #EABF9F;
+    height: 3400px;
+}
+#main_container4{
+    height: 2500px;
+}
+#main_container6{
+    height: 1760px;
+}
+#main_container7{
+    height: 2500px;
+}
+#main_container8{
+    height: 2000px;
+}
+#main_container9{
+    height: 500px;
+}
+body{
+    background-color: #EABF9F;
+}
+.medic {
+    position: absolute;
+    width: 78px;
+    height: 75px;
+    left: 141px;
+    top: 298px;
+}
+h1{
+    position: absolute;
+    width: 149px;
+    height: 80px;
+    left: 105px;
+    top: 141px;
+    color: #999B84;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 79px;
+}
+.head2{
+    position: fixed;
+    width: 368px;
+    height: 52px;
+    left: -8px;
+    top: -8px;
+
+    background: #FAF3E0;
+}
+.zagolovok{
+    position: absolute;
+    width: 79px;
+    height: 40px;
+    left: 150px;
+    top: 10px;
+
+    font-size: 30px;
+    line-height: 40px;
+
+    color: #999B84;
+
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.hospital{
+    position: absolute;
+    width: 50px;
+    height: 51px;
+    left: 10px;
+    top: 4px;
+}
+.nurse{
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    left: 320px;
+    top: 10px;
+}
+
+
+
+
+/*блоки для текста*/
+
+
+
+.punkt1{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 17px;
+    top: 69px;
+
+    
+    background: #D6B0B1;
+    border: black 1px solid;
+}
+.punkt2{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 118px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+
+}
+.punkt3{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 167px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt4{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 17px;
+    top: 69px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt5{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 118px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt6{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 167px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt7{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 17px;
+    top: 69px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt8{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 118px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt9{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 167px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt10{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 17px;
+    top: 69px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt11{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 118px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt12{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 17px;
+    top: 69px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt13{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 118px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt14{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 167px;
+    
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt15{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 216px;
+
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt16{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 165px;
+
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt17{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 210px;
+
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt18{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 255px;
+
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.punkt19{
+    position: absolute;
+    width: 320px;
+    height: 36px;
+    left: 18px;
+    top: 300px;
+
+    background: #D6B0B1;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+
+
+/*текст для блоков))*/
+
+
+
+.dialog1{
+    position: absolute;
+    width: 280px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.dialog2{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog3{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog4{
+    position: absolute;
+    width: 280px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.dialog5{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog6{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog7{
+    position: absolute;
+    width: 280px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.dialog8{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog9{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog10{
+    position: absolute;
+    width: 280px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.dialog11{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog12{
+    position: absolute;
+    width: 280px;
+    height: 16px;
+    left: 15px;
+    top: 2px;
+
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+.dialog13{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 2px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog14{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+.dialog15{
+    position: absolute;
+    width: 149px;
+    height: 16px;
+    left: 15px;
+    top: 10px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;
+}
+.dialog16{
+    position: absolute;
+    width: 263px;
+    height: 16px;
+    left: 15px;
+    top: 2px;
+    
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #000000;    
+}
+
+
+
+
+/*конец диалогов*/
+
+
+/*дивы сверху*/
+
+.namediv1{
+    position: fixed;
+    width: 360px;
+    height: 56px;
+    left: 0px;
+    top: 46px;
+    
+    background: #FAF3E0;
+}
+.name1{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 53px;
+    top: 60px;
+    
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.name2{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 148px;
+    top: 60px;
+    
+    font-size: 25px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.name3{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 70px;
+    top: 60px;
+    
+    font-size: 25px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.name4{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 50px;
+    top: 50px;
+    
+    font-size: 25px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.name5{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 60px;
+    top: 60px;
+    
+    font-size: 25px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.name6{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 130px;
+    top: 60px;
+    
+    font-size: 25px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.name7{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 130px;
+    top: 60px;
+    
+    font-size: 25px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+.name8{
+    position: fixed;
+    width: 285px;
+    height: 23px;
+    left: 130px;
+    top: 60px;
+    
+    font-size: 25px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+
+
+/*конец дивов вверху*/
+
+
+.body1{
+    height: 1200px;
+}
+
+
+
+
+.knopki{
+    position: fixed;
+    width: 360px;
+    height: 56px;
+    left: 0px;
+    top: 584px;
+    
+    background: #FAF3E0;
+}
+.home{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 5px;
+    top: 2px;
+}
+.settings{
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 307px;
+    top: 2px; 
+}
+.poloska{
+    position: absolute;
+    width: 358px;
+    height: 0px;
+    left: 8px;
+    top: 52px;
+    
+    border: 1px solid #000000;
+}
+.settingsname{
+    position: absolute;
+    width: 360px;
+    height: 56px;
+    left: 0px;
+    top: 46px;
+    
+    background: #FAF3E0;
+}
+.settingsteg{
+    position: absolute;
+    width: 158px;
+    height: 36px;
+    left: 108px;
+    top: 8px;
+
+    font-size: 30px;
+    line-height: 36px;
+      
+    color: #000000;
+}
+.qrcod{
+    width: 200px;
+    height: 200px;
+    left: 80px;
+    top: 130px;
+}
+.arrow{
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 9px;
+    top: 0px;
+    transform: rotate(-180.02deg);
+}
+.text1{
+    position: absolute;
+    width: 297px;
+    height: 432px;
+    left: 35px;
+    top: 0px;
+
+
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;   
+}
+.text2{
+    position: absolute;
+    width: 308px;
+    height: 94px;
+    left: 25px;
+    top: 600px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;    
+}
+.text3{
+    position: absolute;
+    width: 327px;
+    height: 56px;
+    left: 20px;
+    top: 940px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text4{
+    position: absolute;
+    width: 311px;
+    height: 387px;
+    left: 20px;
+    top: 1480px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text5{
+    position: absolute;
+    width: 307px;
+    height: 216px;
+    left: 20px;
+    top: 150px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text6{
+    position: absolute;
+    width: 307px;
+    height: 216px;
+    left: 20px;
+    top: 140px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text6{
+    position: absolute;
+    width: 307px;
+    height: 216px;
+    left: 20px;
+    top: 140px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text7{
+    position: absolute;
+    width: 310px;
+    height: 216px;
+    left: 20px;
+    top: 140px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text8{
+    position: absolute;
+    width: 310px;
+    height: 216px;
+    left: 20px;
+    top: 140px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text9{
+    position: absolute;
+    width: 310px;
+    height: 216px;
+    left: 20px;
+    top: 140px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+.text10{
+    position: absolute;
+    width: 310px;
+    height: 216px;
+    left: 20px;
+    top: 140px;
+    font-size: 20px;
+    line-height: 26px;
+    
+    color: #000000;
+}
+
+.bord2{
+    top: 700px;
+}
+.bord3{
+    top: 940px;
+}
+.bord4{
+    top: 2050px;
+}
